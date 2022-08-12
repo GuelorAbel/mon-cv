@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mon-cv/static/css/main.020f1361.css",
+    "main.js": "/mon-cv/static/js/main.c0f4bafa.js",
+    "static/media/pts-gabon.png": "/mon-cv/static/media/pts-gabon.a360746785fc37f9bb01.png",
+    "static/media/drill-watt.png": "/mon-cv/static/media/drill-watt.73b7111a85bfa2b8b6fa.png",
+    "static/media/logs-international.png": "/mon-cv/static/media/logs-international.51e0fb089a41f6cfa779.png",
+    "static/media/back.jpg": "/mon-cv/static/media/back.3eadffabcc3d5e42af16.jpg",
+    "static/media/back-gris.jpg": "/mon-cv/static/media/back-gris.243263572414bd3017fc.jpg",
+    "static/media/Site1.png": "/mon-cv/static/media/Site1.3b084919a563b80aae2e.png",
+    "static/media/abel.jpg": "/mon-cv/static/media/abel.aca8bcb536c3522ddd5b.jpg",
+    "static/media/cvAbel.pdf": "/mon-cv/static/media/cvAbel.66d129031187e65e4714.pdf",
+    "static/media/groupged.png": "/mon-cv/static/media/groupged.1a1c6e06e1578684a20f.png",
+    "static/media/abel.png": "/mon-cv/static/media/abel.b5e57a3e435f755fbae1.png",
+    "index.html": "/mon-cv/index.html",
+    "main.020f1361.css.map": "/mon-cv/static/css/main.020f1361.css.map",
+    "main.c0f4bafa.js.map": "/mon-cv/static/js/main.c0f4bafa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020f1361.css",
+    "static/js/main.c0f4bafa.js"
+  ]
+}
